@@ -13,3 +13,4 @@ soupsieve==2.6
 tzdata==2024.2
 understatapi==0.6.1
 urllib3==1.26.5
+matplotlib==3.3.4
